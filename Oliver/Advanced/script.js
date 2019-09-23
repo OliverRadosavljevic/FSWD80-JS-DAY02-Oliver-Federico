@@ -8,7 +8,7 @@
 // timeCalc(210);
 
 
-//Advanced 2
+// Advanced 2
 // var date = function(){
 // 	var day = new Date().getDate()-1;
 // 	var month;
